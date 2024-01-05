@@ -1,0 +1,14 @@
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\bin\Debug\net8.0\ConversaoCambio.exe
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\bin\Debug\net8.0\ConversaoCambio.deps.json
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\bin\Debug\net8.0\ConversaoCambio.runtimeconfig.json
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\bin\Debug\net8.0\ConversaoCambio.dll
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\bin\Debug\net8.0\ConversaoCambio.pdb
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\obj\Debug\net8.0\ConversaoCambio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\obj\Debug\net8.0\ConversaoCambio.AssemblyInfoInputs.cache
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\obj\Debug\net8.0\ConversaoCambio.AssemblyInfo.cs
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\obj\Debug\net8.0\ConversaoCambio.csproj.CoreCompileInputs.cache
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\obj\Debug\net8.0\ConversaoCambio.dll
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\obj\Debug\net8.0\refint\ConversaoCambio.dll
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\obj\Debug\net8.0\ConversaoCambio.pdb
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\obj\Debug\net8.0\ConversaoCambio.genruntimeconfig.cache
+C:\Users\encju\Documents\C# Exercícios\ConversaoCambio\obj\Debug\net8.0\ref\ConversaoCambio.dll
